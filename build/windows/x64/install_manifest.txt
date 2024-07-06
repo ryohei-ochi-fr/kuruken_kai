@@ -1,0 +1,13 @@
+C:/30_flutter/kuruken_kai/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/30_flutter/kuruken_kai/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/30_flutter/kuruken_kai/build/windows/x64/runner/Debug/geolocator_windows_plugin.dll
+C:/30_flutter/kuruken_kai/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/30_flutter/kuruken_kai/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin.json
+C:/30_flutter/kuruken_kai/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/30_flutter/kuruken_kai/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/30_flutter/kuruken_kai/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/30_flutter/kuruken_kai/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/30_flutter/kuruken_kai/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES
+C:/30_flutter/kuruken_kai/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/30_flutter/kuruken_kai/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/30_flutter/kuruken_kai/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

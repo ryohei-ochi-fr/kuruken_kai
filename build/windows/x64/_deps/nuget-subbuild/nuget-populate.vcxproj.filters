@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\30_flutter\kuruken_kai\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0e888d66c1a5a9dfbe4b3acd46059ea1\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\30_flutter\kuruken_kai\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0e888d66c1a5a9dfbe4b3acd46059ea1\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\30_flutter\kuruken_kai\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0e888d66c1a5a9dfbe4b3acd46059ea1\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\30_flutter\kuruken_kai\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0e888d66c1a5a9dfbe4b3acd46059ea1\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\30_flutter\kuruken_kai\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0e888d66c1a5a9dfbe4b3acd46059ea1\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\30_flutter\kuruken_kai\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0e888d66c1a5a9dfbe4b3acd46059ea1\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\30_flutter\kuruken_kai\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0e888d66c1a5a9dfbe4b3acd46059ea1\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\30_flutter\kuruken_kai\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0e888d66c1a5a9dfbe4b3acd46059ea1\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\30_flutter\kuruken_kai\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\0e888d66c1a5a9dfbe4b3acd46059ea1\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\30_flutter\kuruken_kai\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\583508c9eb4572ca5e1088e711e57d58\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\30_flutter\kuruken_kai\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\00110630c0376038d8034a3a715f0d5b\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\30_flutter\kuruken_kai\build\windows\x64\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\30_flutter\kuruken_kai\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5813E456-EDAC-3655-A7AF-05982ACDEF47}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

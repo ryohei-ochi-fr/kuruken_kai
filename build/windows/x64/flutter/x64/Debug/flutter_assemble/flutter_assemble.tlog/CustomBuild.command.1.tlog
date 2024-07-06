@@ -1,0 +1,28 @@
+^C:\30_FLUTTER\KURUKEN_KAI\BUILD\WINDOWS\X64\CMAKEFILES\4EA73AF3ACFFBCDB67181F89EE164916\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter PROJECT_DIR=C:\30_flutter\kuruken_kai FLUTTER_ROOT=C:\flutter FLUTTER_EPHEMERAL_DIR=C:\30_flutter\kuruken_kai\windows\flutter\ephemeral PROJECT_DIR=C:\30_flutter\kuruken_kai FLUTTER_TARGET=C:\30_flutter\kuruken_kai\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC9lZGQ4NTQ2MTE2NDU3YmRmMWM1YmRmYjEzZWNiOTQ2M2QyYmI1ZWQ0Lw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=C:\30_flutter\kuruken_kai\.dart_tool\package_config.json C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\30_FLUTTER\KURUKEN_KAI\BUILD\WINDOWS\X64\CMAKEFILES\992E9D83AFD54B9FADFB9752ABF9738E\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\30_FLUTTER\KURUKEN_KAI\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/30_flutter/kuruken_kai/windows -BC:/30_flutter/kuruken_kai/build/windows/x64 --check-stamp-file C:/30_flutter/kuruken_kai/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

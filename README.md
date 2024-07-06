@@ -69,8 +69,51 @@ git push origin master
 
 ```
 
+## パスの追加
+
+```cmd
+C:\Users\rochi\AppData\Local\Android\Sdk\platform-tools
+C:\Users\rochi\AppData\Local\Android\Sdk\emulator
+
+emulator -list-avds
+
+emulator -avd Pixel_7_Pro_API_35 -no-snapshot -no-boot-anim
+
+```
+
 ## webview_flutterを組み込む
 
 ```ps
 flutter pub add webview_flutter
 ```
+
+## 位置情報を取得可能にする
+
+```ps
+flutter pub add geolocator
+flutter pub add geocoding
+```
+
+エラー出るよね
+
+```ps
+Building with plugins requires symlink support.
+
+Please enable Developer Mode in your system settings. Run
+  start ms-settings:developers
+to open settings.
+```
+
+[VScode＆FlutterでデバッグしようとしたらException言われた](https://zenn.dev/nukokoi/articles/5f108b0b66e639)
+
+再度実行
+
+```ps
+flutter pub add geolocator
+flutter pub add geocoding
+```
+
+[【Flutter】実行時に『Your project requires a newer version of the Kotlin Gradle plugin.』エラーが起きたときの対処法｜Flutterラボ](https://note.com/hatchoutschool/n/n829a2ba1c5bc)
+[FlutterプロジェクトでのGradleのアップグレード方法とpackage_info_plusを4.0.1にアップグレードした際のエラー解消 #gradle - Qiita](https://qiita.com/SoarTec-lab/items/609dc7f4c8ee95e090bd)
+
+## 権限取得

@@ -1,5 +1,4 @@
 import 'dart:convert';
-
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
@@ -36,7 +35,8 @@ class _WebViewAppState extends State<WebViewApp> {
 
   Future<void> _configureWebView(WebViewController webViewController) async {
     await webViewController.setJavaScriptMode(JavaScriptMode.unrestricted);
-    await webViewController.loadRequest(Uri.parse('https://flutter.dev'));
+    await webViewController.loadRequest(
+        Uri.parse('https://kuruken.jp/Approach?currentPosition=1'));
 
     await webViewController.addJavaScriptChannel(
       'sendMessage',
@@ -63,7 +63,7 @@ class _WebViewAppState extends State<WebViewApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Flutter WebView'),
+        title: const Text('くるけん改'),
       ),
       body: WebViewWidget(
         controller: _controller,
