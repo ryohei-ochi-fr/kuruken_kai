@@ -1,0 +1,1 @@
+ C:\\30_flutter\\kuruken_kai\\.dart_tool\\flutter_build\\0abcf08ef3b16bc9aa49fc5c248d7715\\native_assets.yaml: 

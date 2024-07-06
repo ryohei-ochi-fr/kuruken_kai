@@ -1,0 +1,14 @@
+com.example.kuruken_kai.app-debug-0 C:\30_flutter\kuruken_kai\android\app\src\debug\res
+com.example.kuruken_kai.app-main-1 C:\30_flutter\kuruken_kai\android\app\src\main\res
+com.example.kuruken_kai.app-pngs-2 C:\30_flutter\kuruken_kai\build\app\generated\res\pngs\debug
+com.example.kuruken_kai.app-resValues-3 C:\30_flutter\kuruken_kai\build\app\generated\res\resValues\debug
+com.example.kuruken_kai.app-rs-4 C:\30_flutter\kuruken_kai\build\app\generated\res\rs\debug
+com.example.kuruken_kai.app-mergeDebugResources-5 C:\30_flutter\kuruken_kai\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.kuruken_kai.app-mergeDebugResources-6 C:\30_flutter\kuruken_kai\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.kuruken_kai.app-merged_res-7 C:\30_flutter\kuruken_kai\build\app\intermediates\merged_res\debug
+com.example.kuruken_kai.app-packaged_res-8 C:\30_flutter\kuruken_kai\build\webview_flutter_android\intermediates\packaged_res\debug
+com.example.kuruken_kai.app-core-1.6.0-9 C:\Users\rochi\.gradle\caches\transforms-3\284a410c767ad6c7a2b0ffc8d8d85981\transformed\core-1.6.0\res
+com.example.kuruken_kai.app-jetified-window-java-1.0.0-beta04-10 C:\Users\rochi\.gradle\caches\transforms-3\2a215381204751055df81b6269e717b7\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.kuruken_kai.app-jetified-annotation-experimental-1.1.0-11 C:\Users\rochi\.gradle\caches\transforms-3\3d2f03fc996c2e0aa3dee5cfa3002cd1\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.kuruken_kai.app-webkit-1.11.0-12 C:\Users\rochi\.gradle\caches\transforms-3\e536ff8f3e9ca85a08e5179e81aaf167\transformed\webkit-1.11.0\res
+com.example.kuruken_kai.app-jetified-window-1.0.0-beta04-13 C:\Users\rochi\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\res

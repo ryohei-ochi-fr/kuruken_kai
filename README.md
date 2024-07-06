@@ -68,3 +68,9 @@ git branch -m master
 git push origin master
 
 ```
+
+## webview_flutterを組み込む
+
+```ps
+flutter pub add webview_flutter
+```
