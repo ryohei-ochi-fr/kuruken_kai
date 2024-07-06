@@ -55,11 +55,16 @@ git add .
 git commit -m "first commit"
 git status
 
+# Branchを確認する
 git branch
 
+PS C:\30_flutter\kuruken_kai> git branch
+* master
+
+# masterになっていないならmasterへ
 git branch -m master
+
+# 「今いるブランチのコードを、originというリモートリポジトリに向けて送ってください。送る先のブランチ名は master です。」
 git push origin master
-
-
 
 ```
